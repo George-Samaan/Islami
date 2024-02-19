@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="azkarList">
+        <item>"سبحان الله "</item>
+        <item>" الحمدلله "</item>
+        <item>" لا الله الا الله"</item>
+        <item>" الله اكبر "</item>
+    </array>
+
+
+    <string name="app_name">اسلامي</string>
+    <string name="radio">راديو</string>
+    <string name="tasbeeh">تسبيح</string>
+    <string name="hadeth">حديث</string>
+    <string name="quran">لقرآن</string>
+    <string name="number_of_dhikr">عدد التسبيحات</string>
+
+
+</resources>
