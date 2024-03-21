@@ -51,7 +51,7 @@ class HadethFragment : Fragment() {
     private fun showHadethList(hadethList: MutableList<Hadeth>) {
         val adapter = HadethRecyclerAdapter(hadethList)
         adapter.listener =
-            HadethRecyclerAdapter.onItemClickListener { item, position ->
+            HadethRecyclerAdapter.OnItemClickListener { item, position ->
                 startHadeethDetailsActivity(item)
             }
         viewBinding.hadethRecycler.adapter = adapter
