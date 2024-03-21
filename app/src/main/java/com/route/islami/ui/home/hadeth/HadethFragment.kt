@@ -18,7 +18,7 @@ class HadethFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         viewBinding = FragmentHadethBinding.inflate(inflater, container, false)
         return viewBinding.root
     }
