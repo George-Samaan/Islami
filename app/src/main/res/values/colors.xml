@@ -4,5 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primaryColour">#B7935F</color>
     <color name="color_transparent">#00000000</color>
+    <color name="counter_bg">#91B7935F</color>
+    <color name="dhikr_bg">@color/primaryColour</color>
 
 </resources>

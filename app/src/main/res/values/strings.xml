@@ -4,4 +4,12 @@
     <string name="tasbeeh">Tasbeeh</string>
     <string name="hadeth">Hadeth</string>
     <string name="quran">Quran</string>
+    <string name="number_of_dhikr">Number Of Dhikr</string>
+
+    <array name="azkarList">
+        <item>"Sobhan Allah "</item>
+        <item>" Elhamdullah "</item>
+        <item>" La ellah a'ela allah "</item>
+        <item>" Allah Akbar "</item>
+    </array>
 </resources>

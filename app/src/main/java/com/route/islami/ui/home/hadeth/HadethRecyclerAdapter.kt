@@ -33,11 +33,11 @@ class HadethRecyclerAdapter(private val hadethList: List<Hadeth>) :
 
     }
 
-    fun interface onItemClickListener {
+    fun interface OnItemClickListener {
         fun onClick(item: Hadeth, position: Int)
     }
 
-    var listener: onItemClickListener? = null
+    var listener: OnItemClickListener? = null
 
 
     class ViewHolder(private val itemBinding: ItemHadeethTitleBinding) :
